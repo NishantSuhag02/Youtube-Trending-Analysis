@@ -53,16 +53,22 @@ Conducted statistical analysis to identify correlations between engagement metri
 ![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/4e886f86-60f9-45ed-a05d-0463aad4d967)
 
 
-**(5) Distribution of each categories on video views and video counts is shown below.**
+**(5) T-Series have most number of 'Subscribers' and 'Video Views' and GMA News have most number of uploaded videos.**
+
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/18e891ab-e833-4e72-87bf-a386dfdf9983)
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/d85e2779-b224-4ddb-9215-a43f18eebec1)
+
+
+**(6) Distribution of each categories on video views and video counts is shown below.**
 
 ![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/ded38a3c-dc56-4538-a925-2e7b9d41145b)
 
 
-**(6) It can be easily seen that music, education, Film & Animation are top3 categories that have most subscribers. Includes: T-Series, YouTube Movies and Cocomelon - Nuresery Rhymes.**
+**(7) It can be easily seen that music, education, Film & Animation are top3 categories that have most subscribers. Includes: T-Series, YouTube Movies and Cocomelon - Nuresery Rhymes.**
 
 ![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/df503163-3fa1-4b17-b13e-b9d5b696c1e5)
 
-**(7) Correlation: We can notice that there's high correlation 0.79 with subscribers and video views.**
+**(8) Correlation: We can notice that there's high correlation 0.79 with subscribers and video views which can furthur help us to implement an machine learning algorithm for prediction.**
 
 ![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/040ebd96-1e32-490b-a1b8-9d2a9b5e616e)
 
