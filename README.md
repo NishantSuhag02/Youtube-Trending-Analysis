@@ -5,6 +5,7 @@ As of May 2019, videos were being uploaded at a rate of more than 500 hours of c
 
 # About Dataset:
 The dataset 'Youtube Trending Dataset' contains 7 columns, each are:
+
 **(1)Rank:** rank of youtuber (sorted by subscribers)
 
 **(2)Youtuber:** Name of youtuber
@@ -32,24 +33,38 @@ Analyzed trends in video categories, video views, and publishing times to identi
 Conducted statistical analysis to identify correlations between engagement metrics and potential influencers of video performance.
 
 # Insights:
-**(1) Start year of Top100 youtube channels are mainly distributed in 2006 and early 2010s.**
+**(1) Start year of Top100 youtube channels are mainly distributed in 2006 and early 2014. While 2014 was the year where max. number of channels were created.**
 
-**(2) Music, entertainment and People & Blogs ranked top 3 higest percentage of category proportion.**
+![Screenshot 2023-08-04 132341](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/c6d2fce3-1279-4b57-9269-8f1de2e1bd02)
 
-**(3) As shown below, we can see that Sports, Shows and Film & Animation categories ranked top 3 mean of subscribers.**
 
-**(4) One can found that category of 'People and Blogs' & Entertainment has high video counts, while low video views relatively.**
+**(2) Entertainment, Music and People & Blogs ranked top 3 highest percentage of category proportion.**
+
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/1bf6992f-7314-4d90-9f61-167337aafca9)
+
+
+**(3) As shown below, We can see that Music, Film & Animation and Education categories ranked Top 3 mean of subscribers.**
+
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/345cb98f-6fa1-4790-9adc-ae6f9477e8c9)
+
+
+**(4) One can found that category of 'News and Politics' and 'People and Blogs' has high video counts, while low video views relatively.**
+
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/4e886f86-60f9-45ed-a05d-0463aad4d967)
+
 
 **(5) Distribution of each categories on video views and video counts is shown below.**
 
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/ded38a3c-dc56-4538-a925-2e7b9d41145b)
+
+
 **(6) It can be easily seen that music, education, Film & Animation are top3 categories that have most subscribers. Includes: T-Series, YouTube Movies and Cocomelon - Nuresery Rhymes.**
 
-**(7) Subscribers per year:
-    With the exception of 2018 year, subscribers per year was higher before 2010.
-    We can guess that this is due to the accumulation of time.
-    While 2018 has the highest number of subscribers, this is due to the fact that there's only sole data of 2018.**
-    
-**(8) Correlation: We can notice that there's high correlation 0.82 with subscribers and video views.**
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/df503163-3fa1-4b17-b13e-b9d5b696c1e5)
+
+**(7) Correlation: We can notice that there's high correlation 0.79 with subscribers and video views.**
+
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/040ebd96-1e32-490b-a1b8-9d2a9b5e616e)
 
 # Impact Assessment:
 Evaluated the impact of recommended content strategies on video performance metrics, such as total views and counts, over a specific timeframe.
