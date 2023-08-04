@@ -6,11 +6,17 @@ As of May 2019, videos were being uploaded at a rate of more than 500 hours of c
 # About Dataset:
 The dataset 'Youtube Trending Dataset' contains 7 columns, each are:
 (1)Rank: rank of youtuber (sorted by subscribers)
+
 (2)Youtuber: Name of youtuber
+
 (3)Subscribers: Number of subscribers
+
 (4)Video Views: Total views of video
+
 (5)Video Count: Number of uploaded videos
+
 (6)Category: Category of video
+
 (7)Started: Started year
 
 # Data Collection and Preprocessing:
