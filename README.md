@@ -45,7 +45,7 @@ Conducted statistical analysis to identify correlations between engagement metri
 
 **(3) As shown below, We can see that Music, Film & Animation and Education categories ranked Top 3 mean of subscribers.**
 
-![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/345cb98f-6fa1-4790-9adc-ae6f9477e8c9)
+![image](https://github.com/NishantSuhag02/Youtube-Trending-Analysis/assets/112072807/2d75885a-51c0-4d5d-8868-6aa84f01521b)
 
 
 **(4) One can found that category of 'News and Politics' and 'People and Blogs' has high video counts, while low video views relatively.**
